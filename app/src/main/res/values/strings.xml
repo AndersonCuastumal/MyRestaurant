@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">La Pampa</string>
+    <string name="nombre">La Pampa Parrilla Argentina</string>
+    <string name="informacion">Informacion</string>
+    <string name="descripcion">Informacion</string>
+    <string name="volver">Volver</string>
+    <string name="direccion">Direccion</string>
+    <string name="title_activity_pampa1">Map</string>
+    <string name="bMapa">Map</string>
+</resources>
